@@ -1,0 +1,54 @@
+Package: imgcompress
+Architecture: arm64
+Version: 2026.11.23.1
+Priority: optional
+Section: graphics
+Maintainer: Nick Vance <704392+nickv2002@users.noreply.github.com>
+Bugs: https://github.com/nickv2002/ImageCompress/issues
+Installed-Size: 31591
+Filename: pool/main/i/imgcompress/imgcompress_2026.11.23.1_arm64.deb
+Size: 15249984
+MD5sum: 61644a8596dafb8e97842f9cc9828f51
+SHA1: 630802302e37336be7b805f538b6e30439f386ab
+SHA256: 5966e91986607d9869578f2785c681e082577f192317bd0dfaa2db6adbfdc7da
+SHA512: de3d02c26b83e2e2b4463ec1121f405a5c3e3e1c31c6f4064eaff7813274e93439ca20df0cd15110acba3a862bec862a9633797895cbd2914a7dc6c1c7049586
+Homepage: https://nickv2002.github.io/ImageCompress/
+Description: Compress and convert images (PNG, JPEG, WebP, GIF, AVIF, JPEG XL, HEIC).
+ One static binary with every codec built in; gifsicle is bundled for GIFs.
+
+Package: imgcompress
+Architecture: arm64
+Version: 2026.11.25.1
+Priority: optional
+Section: graphics
+Maintainer: Nick Vance <704392+nickv2002@users.noreply.github.com>
+Bugs: https://github.com/nickv2002/ImageCompress/issues
+Installed-Size: 31658
+Filename: pool/main/i/imgcompress/imgcompress_2026.11.25.1_arm64.deb
+Size: 15259070
+MD5sum: 13a8ff2761eb06c475e93ce2bb53d0e7
+SHA1: 9268d07d546b9d3e891e96d18b019974d055aee6
+SHA256: ecba59afe0c3b032600617e5e069ffe8bfd1ce05621e6f30b83bf93513120ba4
+SHA512: a127f9e9c1a8589433666d19c87b3810363519dd3125e6e656f198cc11fa4832aa64d3a3c271f62b2a94f055357be143475f879dee3bd3ef935122b4d2c482db
+Homepage: https://nickv2002.github.io/ImageCompress/
+Description: Compress and convert images (PNG, JPEG, WebP, GIF, AVIF, JPEG XL, HEIC).
+ One static binary with every codec built in; gifsicle is bundled for GIFs.
+
+Package: imgcompress
+Architecture: arm64
+Version: 2026.11.28.1
+Priority: optional
+Section: graphics
+Maintainer: Nick Vance <704392+nickv2002@users.noreply.github.com>
+Bugs: https://github.com/nickv2002/ImageCompress/issues
+Installed-Size: 31659
+Filename: pool/main/i/imgcompress/imgcompress_2026.11.28.1_arm64.deb
+Size: 15262412
+MD5sum: 7d67a091c35d5d60d1d3f652eda1f14c
+SHA1: dc3f72e7ef200e1d2bccde477ed9d41696527a87
+SHA256: 15ba2f437db39b26dc2fb27141d49be35bb7bca92d4a843114428dc9198f2459
+SHA512: 225e59992325dd19df20f1818dbd7380524b5e420792c4e4876ea2db5109d16d56cc800243fff3906346aad4953d0ebc8f5e2daabca33035de195b3dec3355a7
+Homepage: https://nickv2002.github.io/ImageCompress/
+Description: Compress and convert images (PNG, JPEG, WebP, GIF, AVIF, JPEG XL, HEIC).
+ One static binary with every codec built in; gifsicle is bundled for GIFs.
+

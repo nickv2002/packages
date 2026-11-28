@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 28 Nov 2026 09:07:13 +0000
+Description: Packages by nickv2002
+Label: nickv2002
+Origin: nickv2002
+Suite: stable
+MD5Sum:
+ cfb4f3f245c37d696ff2f7e4131fcccd             2529 main/binary-amd64/Packages
+ 6c0f3fd9b628cac37ca51ce055e01579              965 main/binary-amd64/Packages.gz
+ 66918a3076765eae178dc2d302a4a171             2529 main/binary-arm64/Packages
+ de3e8a7d60697570429da57238e5cc1b              968 main/binary-arm64/Packages.gz
+SHA1:
+ 30663346d439b458f67e2d1bc67b101386d493ab             2529 main/binary-amd64/Packages
+ 0ffaee88ba53537cc507b069a10452ba95dfce33              965 main/binary-amd64/Packages.gz
+ 3f580ec2748b6be3124fecff1bcac564b2b60bb8             2529 main/binary-arm64/Packages
+ 760ddb1d26dc160cf0b19675247cf713e0376cde              968 main/binary-arm64/Packages.gz
+SHA256:
+ 24e5f1f7c35f1ddc821d43862f33ac61e96316f6ebbbe7de2a0332e585b792c9             2529 main/binary-amd64/Packages
+ f736596b038b4ce7f543497b422eca15c47fad07d5b4089bb655afef20f46348              965 main/binary-amd64/Packages.gz
+ 44f93d2b479cfb38b4607705e83b0e9dd0a4cf89d6079236e42f98a9eeb013d9             2529 main/binary-arm64/Packages
+ 9c870a1bd69bedfd894a890d4ed28791ab587ae89b0cc46d12c2d638f56001f2              968 main/binary-arm64/Packages.gz
+SHA512:
+ 7d9e50ee142b6a37a5af109b3f0e9ee8756a515e1cc36cc79aa2e483b864ad319929b8878dd2dbc9c9f27790bcd8fbb426e9c444372827a5301bb090773c2f3d             2529 main/binary-amd64/Packages
+ 8f0997fa58dbdb93468b7256c410e2330f710ebb846dbb40aeb979204a36d4cec8bbf031ee62964478a3ba7a42ade9dba3b1a80181cff94428bfebbd07297092              965 main/binary-amd64/Packages.gz
+ db659295e234552feca7f7804a1111fee2c511d2d9430b0fa3bc97279e9c8df20f67f0142c9b0e1189ea79d0e1cc49217da9e797b81bf1a238c25e88ef37b706             2529 main/binary-arm64/Packages
+ 930f34dd245cd9fe776dcee71daa794b4ce3a931f202d1bc7059d78c7f19b2809004a5809fea3123fd6cb73f6199d94ba42d1b710fc25a745beee721a685c3ef              968 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEAfkzVXSblsEdErFNY+VBnHmY3FgFAmsKmcEACgkQY+VBnHmY
+3FhHaRAAmCk8Bi16NqUitvSBHvZ5TQWlnw7iroKT0hE4gKjH4DeRdf8Es9gSURum
+UoBi2P7RaUAThdNJOBt9qUPx7xskDSxZXtF4u32LqLkcZxE1mxiG3J+N8tV3EjNv
+quK6+KV9mTcbRq/DiqRK9y92ZgduOTXmnRLHrkLRYUGbwRc9zZyG1vWOJ2YWOj1F
+d68y1GvolyhA4wnDmEgmwNEaqgh8tNDPlT9ibv3NrU9+uaxQfqEiAHHJ5QpvyAwo
+TpV5b5D/iNLLVuECbMnE8y25e055Qp7MlT9UZiH1+IsJ/JF4Osn9+bPtmp6I7JJj
+rFHUyJOkDuE4Exla1VUYwXNALz8GmBAXCxeKGLFUSBVpuUG/l5y9i2LbhyHvfcDK
+/iR6bnkX5uUD7NcGfKZji3iZStO0iT1i89q/knDmOBEUU+NMd05G1gwzLUCVcHoz
+EVQ9Epr7lfbQtHh5qpfvmpL2Q6OyAsV9xaQltmRtkcO8bTDO71fwS5A2PPqkIe5x
++N5o+w1H5v5O/s85G12cWNCdx0lQMuilEBdVI6j4r4q2zXiWx7ivNQeEyBec9ESG
+txJ5f/G0nRf3RGa2TJ22nCEHV5dxVBl9+eGv+GNiXPpBDb9++f6vT5KDm+/zIczs
+BhD66fWAQ48i2lY7gcWRUrdB+pKsDHaah1DQEEQBuqYFQzxy/Yc=
+=TZ6J
+-----END PGP SIGNATURE-----
